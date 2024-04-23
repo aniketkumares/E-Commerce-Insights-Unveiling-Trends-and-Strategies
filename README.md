@@ -28,7 +28,7 @@ This Excel project showcases the key performance metrics and trends of an E-comm
 
 (5) Which category should the company consider offering discounts on and why?
 
-(6) Which region has recorded a high volume of orders in the last 3-4 years?
+(6) Which region has recorded a high volume of orders in the last few years?
 
 (7) What is the year-over-year growth of profit, sales, number of orders, and profit margin and what is the analysis of the trend and its implications for the business?
 
